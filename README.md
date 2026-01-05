@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm mohamed shafici</h1>
 <h3 align="center">A passionate full stack developer from somalia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohashafici&label=Profile%20views&color=0e75b6&style=flat" alt="mohashafici" /> </p>
-
-- 🔭 I’m currently working on **Grant Application System**
-
 - 📫 How to reach me **mohashafici44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
